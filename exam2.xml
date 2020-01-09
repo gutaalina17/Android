@@ -14,6 +14,21 @@
                 <answer label="B" text="2"> </answer>
                 <answer label="C" text="3"> </answer>
             </question>
+             <question text="In which order will the vehicles pass the intersection?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/2.jpg" domain="Mechanical">
+                <answer label="A" text="motorcycle, lorry, car"> </answer>
+                <answer label="B" text="motorcycle, car, lorry"> </answer>
+                <answer label="C" text="lorry, motorcylce, car"> </answer>
+            </question>
+             <question text="The people injured with multiple burns on their bodies as a result of an accident must be:" url="url3" domain="Medical">
+                <answer label="A" text="rapidly stripped out of they clothes, after putting the flames out"> </answer>
+                <answer label="B" text="urgently transported to a hospital"> </answer>
+                <answer label="C" text="washed, bandaged and then transported to the nearest medical facility"> </answer>
+            </question>
+            <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Medical">
+                <answer label="A" text="Priority road"> </answer>
+                <answer label="B" text="Parking prohibited"> </answer>
+                <answer label="C" text="It's not a valid road sign"> </answer>
+            </question>
             <question text="Which is the recommended speed on a road covered by mud or snow?" url="url 2" domain="Mechanical">
                 <answer label="A" text="with no more than 20 km/h"> </answer>
                 <answer label="B" text="the speed mentioned by the reglementations of the type of road you are driving on"> </answer>
@@ -23,6 +38,21 @@
                 <answer label="A" text="the motor vehicles"> </answer>
                 <answer label="B" text="the pedestrians on the opposite way of travel"> </answer>
                 <answer label="C" text="all vehicles which you encounter path with"> </answer>
+            </question>
+            <question text="At an unguided intersection of a national road with a country road, communal or local road, the right of way is granted to:" url="url 1" domain="Main">
+                <answer label="A" text="the vehicles traveling on the national road"> </answer>
+                <answer label="B" text="the vehicles coming from the right"> </answer>
+                <answer label="C" text="the vehicles travelling on the country, communal or local road"> </answer>
+            </question>
+             <question text="The airbag provides:" url="url 2" domain="Mechanical">
+                <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road"> </answer>
+                <answer label="B" text="additional protection of persons in the event of a vehicle impact"> </answer>
+                <answer label="C" text="he possibility of relaxed driving, with head resting on it"> </answer>
+            </question>
+            <question text="It is allowed to tow a vehicle on the highway?" url="url 3" domain="Medical">
+                <answer label="A" text="no"> </answer>
+                <answer label="B" text="yes, if the assembly so formed can exceed the speed of 50km/h"> </answer>
+                <answer label="C" text="yes, if the towed vehicle is a car"> </answer>
             </question>
         </questionnaire>
         <questionnaire number="2">
