@@ -19,7 +19,7 @@
                 <answer label="B" text="motorcycle, car, lorry"> </answer>
                 <answer label="C" text="lorry, motorcylce, car"> </answer>
             </question>
-             <question text="The people injured with multiple burns on their bodies as a result of an accident must be:" url="url3" domain="Medical">
+            <question text="The people injured with multiple burns on their bodies as a result of an accident must be:" url="url3" domain="Medical">
                 <answer label="A" text="rapidly stripped out of they clothes, after putting the flames out"> </answer>
                 <answer label="B" text="urgently transported to a hospital"> </answer>
                 <answer label="C" text="washed, bandaged and then transported to the nearest medical facility"> </answer>
@@ -44,7 +44,7 @@
                 <answer label="B" text="the vehicles coming from the right"> </answer>
                 <answer label="C" text="the vehicles travelling on the country, communal or local road"> </answer>
             </question>
-             <question text="The airbag provides:" url="url 2" domain="Mechanical">
+            <question text="The airbag provides:" url="url 2" domain="Mechanical">
                 <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road"> </answer>
                 <answer label="B" text="additional protection of persons in the event of a vehicle impact"> </answer>
                 <answer label="C" text="he possibility of relaxed driving, with head resting on it"> </answer>
@@ -75,7 +75,7 @@
     </category>
     <category type="B">
         <questionnaire number="1">
-             <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Medical">
+            <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Medical">
                 <answer label="A" text="Priority road"> </answer>
                 <answer label="B" text="Parking prohibited"> </answer>
                 <answer label="C" text="It's not a valid road sign"> </answer>
@@ -95,7 +95,7 @@
                 <answer label="B" text="the vehicles coming from the right"> </answer>
                 <answer label="C" text="the vehicles travelling on the country, communal or local road"> </answer>
             </question>
-             <question text="The airbag provides:" url="url 2" domain="Mechanical">
+            <question text="The airbag provides:" url="url 2" domain="Mechanical">
                 <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road"> </answer>
                 <answer label="B" text="additional protection of persons in the event of a vehicle impact"> </answer>
                 <answer label="C" text="he possibility of relaxed driving, with head resting on it"> </answer>
@@ -124,7 +124,7 @@
             </question>
         </questionnaire>
         <questionnaire number="3">
-         <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Medical">
+        <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Medical">
                 <answer label="A" text="Priority road"> </answer>
                 <answer label="B" text="Parking prohibited"> </answer>
                 <answer label="C" text="It's not a valid road sign"> </answer>
@@ -144,7 +144,7 @@
                 <answer label="B" text="the vehicles coming from the right"> </answer>
                 <answer label="C" text="the vehicles travelling on the country, communal or local road"> </answer>
             </question>
-             <question text="The airbag provides:" url="url 2" domain="Mechanical">
+            <question text="The airbag provides:" url="url 2" domain="Mechanical">
                 <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road"> </answer>
                 <answer label="B" text="additional protection of persons in the event of a vehicle impact"> </answer>
                 <answer label="C" text="he possibility of relaxed driving, with head resting on it"> </answer>
@@ -176,7 +176,7 @@
                 <answer label="B" text="the vehicles coming from the right"> </answer>
                 <answer label="C" text="the vehicles travelling on the country, communal or local road"> </answer>
             </question>
-             <question text="The airbag provides:" url="url 2" domain="Mechanical">
+            <question text="The airbag provides:" url="url 2" domain="Mechanical">
                 <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road"> </answer>
                 <answer label="B" text="additional protection of persons in the event of a vehicle impact"> </answer>
                 <answer label="C" text="he possibility of relaxed driving, with head resting on it"> </answer>
@@ -208,7 +208,7 @@
                 <answer label="B" text="the vehicles coming from the right"> </answer>
                 <answer label="C" text="the vehicles travelling on the country, communal or local road"> </answer>
             </question>
-             <question text="The airbag provides:" url="url 2" domain="Mechanical">
+            <question text="The airbag provides:" url="url 2" domain="Mechanical">
                 <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road"> </answer>
                 <answer label="B" text="additional protection of persons in the event of a vehicle impact"> </answer>
                 <answer label="C" text="he possibility of relaxed driving, with head resting on it"> </answer>
@@ -240,7 +240,7 @@
                 <answer label="B" text="the vehicles coming from the right"> </answer>
                 <answer label="C" text="the vehicles travelling on the country, communal or local road"> </answer>
             </question>
-             <question text="The airbag provides:" url="url 2" domain="Mechanical">
+            <question text="The airbag provides:" url="url 2" domain="Mechanical">
                 <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road"> </answer>
                 <answer label="B" text="additional protection of persons in the event of a vehicle impact"> </answer>
                 <answer label="C" text="he possibility of relaxed driving, with head resting on it"> </answer>
@@ -272,7 +272,7 @@
                 <answer label="B" text="the vehicles coming from the right"> </answer>
                 <answer label="C" text="the vehicles travelling on the country, communal or local road"> </answer>
             </question>
-             <question text="The airbag provides:" url="url 2" domain="Mechanical">
+            <question text="The airbag provides:" url="url 2" domain="Mechanical">
                 <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road"> </answer>
                 <answer label="B" text="additional protection of persons in the event of a vehicle impact"> </answer>
                 <answer label="C" text="he possibility of relaxed driving, with head resting on it"> </answer>
@@ -305,7 +305,7 @@
                 <answer label="B" text="the vehicles coming from the right"> </answer>
                 <answer label="C" text="the vehicles travelling on the country, communal or local road"> </answer>
             </question>
-             <question text="The airbag provides:" url="url 2" domain="Mechanical">
+            <question text="The airbag provides:" url="url 2" domain="Mechanical">
                 <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road"> </answer>
                 <answer label="B" text="additional protection of persons in the event of a vehicle impact"> </answer>
                 <answer label="C" text="he possibility of relaxed driving, with head resting on it"> </answer>
@@ -317,7 +317,7 @@
             </question>
         </questionnaire>
         <questionnaire number="9">
-             <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Medical">
+            <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Medical">
                 <answer label="A" text="Priority road"> </answer>
                 <answer label="B" text="Parking prohibited"> </answer>
                 <answer label="C" text="It's not a valid road sign"> </answer>
@@ -337,7 +337,7 @@
                 <answer label="B" text="the vehicles coming from the right"> </answer>
                 <answer label="C" text="the vehicles travelling on the country, communal or local road"> </answer>
             </question>
-             <question text="The airbag provides:" url="url 2" domain="Mechanical">
+            <question text="The airbag provides:" url="url 2" domain="Mechanical">
                 <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road"> </answer>
                 <answer label="B" text="additional protection of persons in the event of a vehicle impact"> </answer>
                 <answer label="C" text="he possibility of relaxed driving, with head resting on it"> </answer>
