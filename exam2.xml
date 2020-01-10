@@ -284,8 +284,7 @@
             </question>
         </questionnaire>
         <questionnaire number="8">
-            <question text="Question 1 text" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/4577.jpg" domain="Main">
-                <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Medical">
+            <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Main">
                 <answer label="A" text="Priority road"> </answer>
                 <answer label="B" text="Parking prohibited"> </answer>
                 <answer label="C" text="It's not a valid road sign"> </answer>
