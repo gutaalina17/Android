@@ -1,0 +1,26 @@
+{
+    "monitors": 
+    [
+    {
+        "number": "1",
+        "producer": "prod1",
+        "date": "2019-10-12",
+        "diagonal": "22.22",
+        "owner": "owner1"
+    },
+    {
+        "number": "2",
+        "producer": "prod2",
+        "date": "2019-10-12",
+        "diagonal": "22.22",
+        "owner": "owner2"
+    },
+    {
+       "number": "3",
+        "producer": "prod3",
+        "date": "2019.10.12",
+        "diagonal": "22.22",
+        "owner": "owner3"
+    }
+    ]
+}
