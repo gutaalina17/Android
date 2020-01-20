@@ -1,0 +1,77 @@
+{
+    "cards": 
+    [
+    {
+        "number": "1",
+        "departament": "electrical",
+        "cost": "110.1",
+        "date": "2019-10-10",
+    },
+    {
+         "number": "2",
+        "departament": "electrical",
+        "cost": "20.1",
+        "date": "2019-10-10",
+    },
+    {
+        "number": "3",
+        "departament": "electrical",
+        "cost": "310.1",
+        "date": "2019-10-10",
+    },
+    {
+         "number": "1",
+        "departament": "electrical",
+        "cost": "110.1",
+        "date": "2019-10-10",
+    },
+    {
+         "number": "1",
+        "departament": "electrical",
+        "cost": "110.1",
+        "date": "2019-10-10",
+    },
+    {
+         "number": "1",
+        "departament": "electrical",
+        "cost": "110.1",
+        "date": "2019-10-10",
+    },
+    {
+         "number": "1",
+        "departament": "electrical",
+        "cost": "110.1",
+        "date": "2019-10-10",
+    },
+    {
+         "number": "1",
+        "departament": "electrical",
+        "cost": "110.1",
+        "date": "2019-10-10",
+    },
+    {
+        "number": "1",
+        "departament": "electrical",
+        "cost": "110.1",
+        "date": "2019-10-10",
+    },
+    {
+         "number": "1",
+        "departament": "electrical",
+        "cost": "110.1",
+        "date": "2019-10-10",
+    },
+    {
+         "number": "1",
+        "departament": "electrical",
+        "cost": "110.1",
+        "date": "2019-10-10",
+    },
+    {
+        "number": "1",
+        "departament": "electrical",
+        "cost": "110.1",
+        "date": "2019-10-10",
+    }
+    ]
+}
